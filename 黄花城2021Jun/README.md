@@ -8,6 +8,9 @@
 * 下图是 openstreetmap 上的相关部分地图。
 这是一张 11200x2400 的超大图片，请下下来放大慢慢看。
 也可以去谷歌地图上看卫星图，可以清晰地看到敌楼，但是谷歌地图没有小路和公开GPS轨迹。
+前一天(第0天)住在山脚下的黄花城村里，转天(第1天)早起上山。
+大致路线是从黄花城村从小路上长城，走到黄花城长城景区下山回家。
+长城段约有 4km。
 <div align=center>
    <img width="100%" src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄花城-openstreet.png"/>
 </div>
