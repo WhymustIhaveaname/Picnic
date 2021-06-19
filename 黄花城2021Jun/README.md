@@ -62,17 +62,17 @@
 头灯           |                          |我富裕两个|以免到晚上还没下山
 杂物1          |手套、筷子                   |我准备|手套用于爬山，筷子用于吃饭
 第1天早点       |                          |自备
-杂物2          |充电宝充电器、换洗衣物、防晒遮阳、扑克牌、身份证学生证|自备
+杂物2          |充电宝充电器、换洗衣物、牙刷牙膏、防晒遮阳、扑克牌、身份证学生证|自备
 第1天喝的水     |3L                        |山脚下村儿里买
 
-下图是一些物资的照片
+<!--下图是一些物资的照片
 <table border="0">
     <tr>
         <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/单兵自热.jpg"/></th>
         <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄桃罐头.jpg"/></th>
         <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/劳保手套.jpg"/></th>
     </tr>
-</table>
+</table>-->
 
 ### 有的人有
 
