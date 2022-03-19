@@ -12,15 +12,15 @@
 大致路线是从黄花城村从小路上长城，走到黄花城长城景区下山回家。
 长城段约有 __5km__。
 <div align=center>
-   <img width="100%" src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄花城-openstreet.png"/>
+   <img width="100%" src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/黄花城-openstreet.png"/>
 </div>
 
 * 地图最左边(西边)是黄花城景区，我计划将那里作为终点。
 下图左是景区地图，下图右是景区风景，可以看到有两段长城被淹，与两张地图相符。
 <table border="0">
     <tr>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄花城景区游览示意图.png"/></th>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄花城实景(两段被淹).jpeg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/黄花城景区游览示意图.png"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/黄花城实景(两段被淹).jpeg"/></th>
     </tr>
 </table>
 
@@ -68,9 +68,9 @@
 <!--下图是一些物资的照片
 <table border="0">
     <tr>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/单兵自热.jpg"/></th>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/黄桃罐头.jpg"/></th>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/figures/劳保手套.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/单兵自热.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/黄桃罐头.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/黄花城2021Jun/劳保手套.jpg"/></th>
     </tr>
 </table>-->
 

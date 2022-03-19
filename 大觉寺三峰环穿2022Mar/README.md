@@ -4,12 +4,19 @@
 2. 爬一天山，长度 22.1 km，爬升 1889 m，之后原路返回。
 3. 如果体力不支或者时间安排上出了问题，可以在涧沟村下山，少走 8.1 km，涧沟村下午四点有一班 M5 路进城
 
+<table border="0">
+    <tr>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/大觉寺三峰环穿2022Mar/routeplan.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/大觉寺三峰环穿2022Mar/elevation.jpg"/></th>
+    </tr>
+</table>
+
 ## 需要准备
 
 1. 午餐，丰俭由人
 2. 水，至少 1.5L 每人，推荐 2L
 3. 零食和能量食品，注意不要太咸
-4. 身份证学生证、餐巾纸湿巾、碘酒棉签、垃圾袋、扑克牌、充电宝、头灯、防晒、筷子、黄桃罐头...
+4. 身份证学生证、餐巾纸湿巾、碘酒棉签、垃圾袋、扑克牌、充电宝、头灯、对讲机、防晒、筷子、黄桃罐头...
 
 ## 参考资料
 
