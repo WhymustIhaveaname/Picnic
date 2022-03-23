@@ -60,3 +60,10 @@
 
 1. 雪天路况还是有一些复杂，下山最好需要登山杖、防滑鞋
 2. 道旁植物带刺，需要手套
+
+<table border="0">
+    <tr>
+        <th><img src="photos/mountains.jpg"/></th>
+        <th><img src="photos/snow.jpg"/></th>
+    </tr>
+</table>
