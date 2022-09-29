@@ -7,8 +7,8 @@
 
 <table border="0">
     <tr>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/大觉寺三峰环穿2022Mar/routeplan.jpg"/></th>
-        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/大觉寺三峰环穿2022Mar/elevation.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/2022Mar大觉寺三峰环穿/routeplan.jpg"/></th>
+        <th><img src="https://raw.githubusercontent.com/WhymustIhaveaname/Picnic/main/2022Mar大觉寺三峰环穿/elevation.jpg"/></th>
     </tr>
 </table>
 
